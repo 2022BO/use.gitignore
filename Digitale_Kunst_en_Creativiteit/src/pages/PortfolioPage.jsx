@@ -67,7 +67,7 @@ const PortfolioPage = ({}) => {
   }, [data]);
 
   useEffect(() => {
-    fetch('/portfolio.json')
+    fetch('/db.bjson')
       .then((response) => response.json())
       .then((jsonData) => {
         console.log('Received data:', jsonData);
