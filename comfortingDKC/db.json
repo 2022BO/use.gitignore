@@ -1,0 +1,278 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Fusion of Colors: Two Souls Intertwined",
+      "description": "Voel de wereld van digitale kunst en Pixelart met het levendige werk van kleuren.",
+      "image": "https://imgur.com/4XUcBbT.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "location": "Online",
+      "prijs": "€1200,-",
+      "website": "www.digitalartworkshop.com",
+      "quote": "Ontketen de kracht van Pixelart en laat inspiratie je leiden!",
+      "email": "sarahjanssen@email.com",
+      "phone": "+1234567890",
+      "message": " ",
+      "categories": [
+        "Innovative Creators",
+        "Emerging Visionaries"
+      ],
+      "size": {
+        "width": 110,
+        "height": 90
+      },
+      "artist": {
+        "name": "Sarah Janssen",
+        "email": "sarahjanssen@email.com",
+        "phone": "+1212121222"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Bonded Souls Back to Back",
+      "description": "Verken de diepgaande verbondenheid van digitale kunst en ontdek de voordelen van mindfulness voor een harmonieuze geest.",
+      "image": "https://imgur.com/Tkt0x3R.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "location": "Sparrenlaan 11, Groningen",
+      "prijs": "€1500,-",
+      "website": "www.mindfulness-art.com",
+      "quote": "Laat je ziel tot rust komen in de digitale stilte van het moment en ontdek een nieuwe wereld van creatieve zelfexpressie.",
+      "email": "smoothjames@email.com",
+      "phone": "+1234567890",
+      "message": " ",
+      "categories": [
+        "Innovative Creators",
+        "Emerging Visionaries"
+      ],
+      "size": {
+        "width": 80,
+        "height": 120
+      },
+      "artist": {
+        "name": "James Smooth",
+        "email": "smoothjames@email.com",
+        "phone": "+1212121222"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Deep in Mind",
+      "description": "Verken de diepten van digitale kunst met iA Art Deep in Mind.",
+      "image": "https://imgur.com/A856Dfh.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "location": "Rozenstraat 36, Maastricht",
+      "prijs": "€1900,-",
+      "website": " www.effectiefStressbeheerbijOuderen.nl",
+      "quote": "Laat je gedachten afdalen naar de onontdekte diepten van kunstzinnige verbeelding.",
+      "email": "jamescarter@email.com",
+      "phone": "+1234567890",
+      "message": " ",
+      "categories": [
+        "Innovative Creators",
+        "Emotional Expressions"
+      ],
+      "size": {
+        "width": 250,
+        "height": 180
+      },
+      "artist": {
+        "name": "Jan Kanter",
+        "email": "arjan@email.com",
+        "phone": "+1212121222"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Eiskonen",
+      "description": "Ontdek de diepten van de kunstzinnige wereld van Hans Eiskonen.",
+      "image": "https://imgur.com/GJkjzLq.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "location": "Online",
+      "prijs": "€2500,-",
+      "website": "www.Eiskonen.nl",
+      "quote": "Iedere duik in kunstzinnige kennis verrijkt je eigen belangrijkste investering - jezelf.",
+      "email": "hneiskonen@email.com",
+      "phone": "+1234567890",
+      "message": " ",
+      "categories": [
+        "Innovative Creators",
+        "Emerging Visionaries"
+      ],
+      "size": {
+        "width": 150,
+        "height": 200
+      },
+      "artist": {
+        "name": "Hans Eiskonen",
+        "email": "eiskonen@email.com",
+        "phone": "+1212121222"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Whimsical Splatters on a Wispy Trunk",
+      "description": "Ontdek de betovering van dit unieke digitale kunstwerk met speelse spetters en sierlijke stam. Breng creativiteit in je leven en haal dit kunstwerk in huis om dagelijks te genieten van innovatieve inspiratie.",
+      "image": "https://imgur.com/rMfkVvw.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "location": "Bloemenweg 23, Den Haag",
+      "prijs": "€1750,-",
+      "website": "www.digitalekunst.nl",
+      "quote": "Verrijk je ruimte met de kunstzinnige spetters van dit meesterwerk. Koop nu en omarm de schoonheid van innovatieve kunst in je dagelijks leven!",
+      "email": " ",
+      "phone": "+1234567890",
+      "message": " ",
+      "categories": [
+        "Innovative Creators",
+        "Emerging Visionaries"
+      ],
+      "size": {
+        "width": 100,
+        "height": 100
+      },
+      "artist": {
+        "name": "Lara Postman",
+        "email": "lpostman@email.com",
+        "phone": "+1212121222"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Laughter Lines Unleashed",
+      "description": "Ervaar de vreugde en wijsheid onthuld door de lachlijnen in dit unieke kunstwerk. Voeg een vleugje humor en levensvreugde toe aan je omgeving met dit prachtige stuk.",
+      "image": "https://imgur.com/t95wcet.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "startTime": "2024-01-08 T13:30",
+      "endTime": "2024-01-08 T16:30",
+      "location": "Esdoornlaan 17, Amsterdam",
+      "prijs": "€2000,-",
+      "website": "www.LaughterLinesArt.com",
+      "quote": "Ontdek de kracht van lachen en laat deze kunst je inspireren. Breng vreugde in je leven met 'Laughter Lines Unleashed'.",
+      "email": " ",
+      "phone": "+1234567890",
+      "message": " ",
+      "categories": [
+        "Innovative Creators",
+        "Emerging Visionaries"
+      ],
+      "size": {
+        "width": 120,
+        "height": 100
+      },
+      "artist": {
+        "name": "Dick Tuinboer",
+        "email": "dtuinboer@email.com",
+        "phone": "+1212121222"
+      }
+    },
+    {
+      "id": 8,
+      "title": "A Floral Soul by the Sea",
+      "description": "Laat je ziel bloeien te midden van de prachtige flora en de serene zee. Dit kunstwerk neemt je mee op een reis van rust en schoonheid, geïnspireerd door de natuur.",
+      "image": "https://imgur.com/0lJPPWF.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "location": "Online",
+      "prijs": "€1800,-",
+      "website": "www.floralartseascape.com",
+      "quote": "Verbondenheid met de natuur brengt rust en inspiratie. Ontdek de ziel van bloemen en de zee in dit kunstwerk.",
+      "email": "rogier@floralartseascape.com",
+      "phone": "+1234567890",
+      "message": " ",
+      "categories": [
+        "Innovative Creators",
+        "Emotional Expressions"
+      ],
+      "size": {
+        "width": 120,
+        "height": 150
+      },
+      "artist": {
+        "name": "Robbert van Gouda",
+        "email": "robart@email.com",
+        "phone": "+1212121222"
+      }
+    },
+    {
+      "id": 9,
+      "title": "WET",
+      "description": "Laat je onderdompelen in de vloeibare wereld van emoties en reflecties. 'WET' verkent de diepten van menselijke gevoelens door middel van kunst, waar water symbool staat voor de stroom van emoties en ervaringen.",
+      "image": "https://imgur.com/X5F8Pqx.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "location": "Online",
+      "prijs": "€2000,-",
+      "website": "www.arjanvidelerart.com",
+      "quote": "Emoties vloeien als water, en in 'WET' ontdek je de kunst van het vastleggen van menselijke gevoelens.",
+      "email": "arjan@email.com",
+      "phone": "+1212121222",
+      "message": " ",
+      "categories": [
+        "Innovative Creators",
+        "Emotional Expressions"
+      ],
+      "size": {
+        "width": 150,
+        "height": 200
+      },
+      "artist": {
+        "name": "Arjan Videler",
+        "email": "arjan@email.com",
+        "phone": "+1212121222"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Dogs machine",
+      "description": "Verken de unieke relatie tussen mens en machine door de lens van kunst. 'Dogs machine' onthult de symbiose tussen technologie en de menselijke geest, waarbij beeldmateriaal, theorie en praktijkervaringen samenkomen om de signalen van deze relatie te ontrafelen.",
+      "startTime": "Online",
+      "endTime": "Online",
+      "message": "Door middel van beeldmateriaal, theorie en ervaringen uit de praktijk, leer je signalen herkennen en kun je op een gepaste manier aansluiten bij een gezin.",
+      "image": "https://imgur.com/g7rVVys.jpg",
+      "imageWidth": 300,
+      "imageHeight": 250,
+      "location": "Online",
+      "prijs": "€1500,-",
+      "website": "www.sofiebeekmanart.com",
+      "quote": "Ontdek de harmonie tussen mens en machine in 'Dogs machine', waar kunst de brug slaat tussen technologische vooruitgang en menselijke connectie.",
+      "email": "sofie@email.com",
+      "phone": "+1234567890",
+      "categories": [
+        "Newly graduated artist",
+        "Emerging Visionaries"
+      ],
+      "size": {
+        "width": 80,
+        "height": 120
+      },
+      "artist": {
+        "name": "Sarah Zeeman",
+        "email": "szeeman@email.com",
+        "phone": "+1234567890"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Innovative Creators",
+      "id": 1
+    },
+    {
+      "name": "Newly graduated artist",
+      "id": 2
+    },
+    {
+      "name": "Emerging Visionaries",
+      "id": 3
+    },
+    {
+      "name": "Emotional Expressions",
+      "id": 4
+    }
+  ]
+}
