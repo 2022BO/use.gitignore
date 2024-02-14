@@ -49,7 +49,8 @@ const AddWork = ({ handleUpdateportfolio }) => {
       let newWork;
 
       if (typeof handleUpdateportfolio === 'function') {// Haal gegevens op van de server
-        const response = await fetch(`http://localhost:3000/portfolio`, {
+        const response = await fetch(`https://my-json-server.typicode.com/2022BO/DKCJSON
+        `, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
